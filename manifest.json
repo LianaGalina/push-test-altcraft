@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://lianagalina.github.io/push-test-altcraft/",
+  "display": "standalone"
+}
